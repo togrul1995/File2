@@ -1,0 +1,20 @@
+body{
+	width: 1920px;
+	height: 790px;
+	background: #444444;
+	padding: 0px;
+	margin: 0px;
+}
+.divF{
+	width: 100%;
+	height: 118px;
+	background: #386bc9;
+	margin: 60px 0px 2px 0px;
+}
+.divFone{
+	margin:0px 352px;
+	background-image: url(http://www.anspress.com/img/logo/logo.png);
+	background: white;
+	background-color: white;
+	float: left;
+}
